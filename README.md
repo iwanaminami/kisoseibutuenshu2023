@@ -1,5 +1,7 @@
 # 基礎生物学演習Ⅰ
 
+2023年6月7日〜2023年7月26日の水曜日
+
 ### 論文読みの論文
 - 2023年6月14日  
 Dynamics of chronic myeloid leukaemia.  
